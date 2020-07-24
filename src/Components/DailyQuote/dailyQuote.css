@@ -1,0 +1,10 @@
+
+.logo-button {
+    height: 50px;
+    width: 50px;
+    pointer-events: none;
+  }
+
+  .mycard {
+    width: 18rem;
+  }
